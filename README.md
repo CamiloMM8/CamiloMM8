@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Camilo</h1>
-<h3 align="center">Desarrollador de software | Tech Lead</h3>
+<h3 align="center">Software Developer</h3>
 
 - 📫 Como contactarme **camilo.dev@hotmail.com**
 
